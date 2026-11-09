@@ -1,5 +1,5 @@
 {
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/qjlxg/elsewhere/refs/heads/main/pg.jar"
+"spider": "https://raw.githubusercontent.com/qjlxg/elsewhere/refs/heads/main/pg.jar"
 
 "lives":[{"name":"大田沟","type":0,"url":"https://raw.githubusercontent.com/qjlxg/collect-tv-txt/refs/heads/main/live_lite.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"} ],
 "wallpaper":"https://7ed.net/bing/api",
