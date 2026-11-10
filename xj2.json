@@ -4,7 +4,7 @@
         {
             "name": "大田沟",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -13,24 +13,14 @@
     "wallpaper": "https://7ed.net/bing/api",
     "sites": [
         {
-            "key": "auto_95107",
-            "name": "自动源_8",
+            "key": "auto_95100",
+            "name": "自动源_1",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://gkyao.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95103",
-            "name": "自动源_4",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://caoweinb.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.cztpyfw.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95101",
@@ -53,6 +43,16 @@
             "ext": "https://thecoffeesteam.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95103",
+            "name": "自动源_4",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://caoweinb.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95104",
             "name": "自动源_5",
             "type": 3,
@@ -61,16 +61,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.caoweinb.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95108",
-            "name": "自动源_9",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://www.sztyxdz.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95105",
@@ -83,6 +73,76 @@
             "ext": "https://www.zjpifabao.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95106",
+            "name": "自动源_7",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://zhuoshunfa.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95107",
+            "name": "自动源_8",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://gkyao.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95108",
+            "name": "自动源_9",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.sztyxdz.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95109",
+            "name": "自动源_10",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.heziwenda.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95110",
+            "name": "自动源_11",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.hbhuilan.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95111",
+            "name": "自动源_12",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://hbhuilan.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95112",
+            "name": "自动源_13",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.91tuopan.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95113",
             "name": "自动源_14",
             "type": 3,
@@ -91,6 +151,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://china-reasonable.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95114",
+            "name": "自动源_15",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.xinda99.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95115",
@@ -103,16 +173,6 @@
             "ext": "https://www.llikemc.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95106",
-            "name": "自动源_7",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://zhuoshunfa.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
             "key": "auto_95116",
             "name": "自动源_17",
             "type": 3,
@@ -121,6 +181,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.eucalyflorist.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95117",
+            "name": "自动源_18",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m.zyaxlhh.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95118",
@@ -133,16 +203,6 @@
             "ext": "http://tabiholicaiko.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95120",
-            "name": "自动源_21",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://www.hax520.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
             "key": "auto_95119",
             "name": "自动源_20",
             "type": 3,
@@ -151,6 +211,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://0575hao.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95120",
+            "name": "自动源_21",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.hax520.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95121",
@@ -163,6 +233,16 @@
             "ext": "https://www.0575hao.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95122",
+            "name": "自动源_23",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.3927yx.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95123",
             "name": "自动源_24",
             "type": 3,
@@ -173,34 +253,54 @@
             "ext": "https://aolaik.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95130",
-            "name": "自动源_31",
+            "key": "auto_95124",
+            "name": "自动源_25",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.feriniya.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://www.dianshijudang.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95133",
-            "name": "自动源_34",
+            "key": "auto_95125",
+            "name": "自动源_26",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cmis2017.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://yueduku.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95122",
-            "name": "自动源_23",
+            "key": "auto_95126",
+            "name": "自动源_27",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.3927yx.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://dianshijudang.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95127",
+            "name": "自动源_28",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dianshijudang.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95128",
+            "name": "自动源_29",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://172.83.153.198/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95129",
@@ -213,24 +313,14 @@
             "ext": "https://www.jstgyg.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95137",
-            "name": "自动源_38",
+            "key": "auto_95130",
+            "name": "自动源_31",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://phextour.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95138",
-            "name": "自动源_39",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.bdhlf.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://www.feriniya.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95131",
@@ -253,6 +343,16 @@
             "ext": "https://wap.dssy.cc/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95133",
+            "name": "自动源_34",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cmis2017.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95134",
             "name": "自动源_35",
             "type": 3,
@@ -273,14 +373,34 @@
             "ext": "http://m.dssy.cc/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95141",
-            "name": "自动源_42",
+            "key": "auto_95136",
+            "name": "自动源_37",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://lotvac.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://186.243.101.43/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95137",
+            "name": "自动源_38",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://phextour.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95138",
+            "name": "自动源_39",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.bdhlf.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95139",
@@ -303,6 +423,16 @@
             "ext": "https://lotvac.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95141",
+            "name": "自动源_42",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://lotvac.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95142",
             "name": "自动源_43",
             "type": 3,
@@ -313,14 +443,54 @@
             "ext": "https://www.zjwsd.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95149",
-            "name": "自动源_50",
+            "key": "auto_95143",
+            "name": "自动源_44",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.shuoshida.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://dssy.cc/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95144",
+            "name": "自动源_45",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.shidiao8888.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95145",
+            "name": "自动源_46",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.fuyuanby.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95146",
+            "name": "自动源_47",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://fuyuanby.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95147",
+            "name": "自动源_48",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://fuyuanby.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95148",
@@ -333,6 +503,46 @@
             "ext": "https://www.qlmjsj.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95149",
+            "name": "自动源_50",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.shuoshida.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95150",
+            "name": "自动源_51",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.30sus.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95151",
+            "name": "自动源_52",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://30sus.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95152",
+            "name": "自动源_53",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://6dfi.avdkt.shop/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95153",
             "name": "自动源_54",
             "type": 3,
@@ -341,26 +551,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://meisho-maekawa.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95155",
-            "name": "自动源_56",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.weiwen520.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95157",
-            "name": "自动源_58",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://huitenghancai.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95154",
@@ -373,6 +563,36 @@
             "ext": "http://www.jmhqmc.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95155",
+            "name": "自动源_56",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.weiwen520.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95156",
+            "name": "自动源_57",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://sagalabs.men37md.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95157",
+            "name": "自动源_58",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://huitenghancai.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95158",
             "name": "自动源_59",
             "type": 3,
@@ -381,16 +601,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://www.szsmartq.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95161",
-            "name": "自动源_62",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://omarguttie.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95159",
@@ -403,14 +613,164 @@
             "ext": "https://omarguttie.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95144",
-            "name": "自动源_45",
+            "key": "auto_95160",
+            "name": "自动源_61",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.shidiao8888.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.libmysql.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95161",
+            "name": "自动源_62",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://omarguttie.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95162",
+            "name": "自动源_63",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.utea88.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95163",
+            "name": "自动源_64",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cookie.men37md.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95164",
+            "name": "自动源_65",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.hjxzn.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95165",
+            "name": "自动源_66",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.zibozixunpt.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95166",
+            "name": "自动源_67",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://yangjiangxinxi.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95167",
+            "name": "自动源_68",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.yangjiangxinxi.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95168",
+            "name": "自动源_69",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.guibs.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95169",
+            "name": "自动源_70",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://guibs.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95170",
+            "name": "自动源_71",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://whdengx.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95171",
+            "name": "自动源_72",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.whdengx.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95172",
+            "name": "自动源_73",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://zhongqigc89.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95173",
+            "name": "自动源_74",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://zhongqigc89.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95174",
+            "name": "自动源_75",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.senchayinxiang.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95175",
+            "name": "自动源_76",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://senchayinxiang.cn/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95176",
@@ -433,34 +793,24 @@
             "ext": "https://szymyjg.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95143",
-            "name": "自动源_44",
+            "key": "auto_95178",
+            "name": "自动源_79",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dssy.cc/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://www.tzyeyaji.cn/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95162",
-            "name": "自动源_63",
+            "key": "auto_95179",
+            "name": "自动源_80",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.utea88.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95182",
-            "name": "自动源_83",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://www.yqhgj.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.yqhgj.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95180",
@@ -473,14 +823,34 @@
             "ext": "https://fuzhuangdz.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95179",
-            "name": "自动源_80",
+            "key": "auto_95181",
+            "name": "自动源_82",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.yqhgj.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.fuzhuangdz.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95182",
+            "name": "自动源_83",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.yqhgj.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95183",
+            "name": "自动源_84",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://qzepc.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95184",
@@ -503,36 +873,6 @@
             "ext": "http://rubyandso.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95160",
-            "name": "自动源_61",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.libmysql.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95181",
-            "name": "自动源_82",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.fuzhuangdz.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95183",
-            "name": "自动源_84",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://qzepc.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
             "key": "auto_95186",
             "name": "自动源_87",
             "type": 3,
@@ -543,16 +883,6 @@
             "ext": "http://www.rubyandso.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95188",
-            "name": "自动源_89",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://qg65.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
             "key": "auto_95187",
             "name": "自动源_88",
             "type": 3,
@@ -561,6 +891,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.qg65.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95188",
+            "name": "自动源_89",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://qg65.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95189",
@@ -583,6 +923,36 @@
             "ext": "https://www.lhmaifang.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95191",
+            "name": "自动源_92",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.uitv.com.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95192",
+            "name": "自动源_93",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cookie.men37md.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95193",
+            "name": "自动源_94",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.ynrsksw.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95194",
             "name": "自动源_95",
             "type": 3,
@@ -591,36 +961,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.cdyqys.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95197",
-            "name": "自动源_98",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://www.tabdir.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95196",
-            "name": "自动源_97",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://haitaolvshi.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95205",
-            "name": "自动源_106",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cysdfjjj.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95195",
@@ -633,6 +973,76 @@
             "ext": "http://huangyuu.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95196",
+            "name": "自动源_97",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://haitaolvshi.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95197",
+            "name": "自动源_98",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.tabdir.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95198",
+            "name": "自动源_99",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.eweihang.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95199",
+            "name": "自动源_100",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://libmysql.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95200",
+            "name": "自动源_101",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.njshengzhi.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95201",
+            "name": "自动源_102",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m.doukous.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95202",
+            "name": "自动源_103",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://m.doukous.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95203",
             "name": "自动源_104",
             "type": 3,
@@ -641,6 +1051,26 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.0393fcw.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95204",
+            "name": "自动源_105",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://xiangxiangyu.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95205",
+            "name": "自动源_106",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://cysdfjjj.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95206",
@@ -663,44 +1093,14 @@
             "ext": "https://sytrcwy.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95178",
-            "name": "自动源_79",
+            "key": "auto_95208",
+            "name": "自动源_109",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.tzyeyaji.cn/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95199",
-            "name": "自动源_100",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://libmysql.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95193",
-            "name": "自动源_94",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.ynrsksw.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95213",
-            "name": "自动源_114",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://taijiquanzi.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://www.daohangtx3.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95209",
@@ -713,6 +1113,16 @@
             "ext": "https://www.taijiquanzi.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95210",
+            "name": "自动源_111",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://30sus.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95211",
             "name": "自动源_112",
             "type": 3,
@@ -721,16 +1131,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.ejcstore.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95214",
-            "name": "自动源_115",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://www.zhoutzc.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95212",
@@ -743,24 +1143,24 @@
             "ext": "https://www.czbfcm.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95217",
-            "name": "自动源_118",
+            "key": "auto_95213",
+            "name": "自动源_114",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://chateaulacommanderie.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://taijiquanzi.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95221",
-            "name": "自动源_122",
+            "key": "auto_95214",
+            "name": "自动源_115",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.xzzybyq.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://www.zhoutzc.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95215",
@@ -783,6 +1183,16 @@
             "ext": "https://www.chateaulacommanderie.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95217",
+            "name": "自动源_118",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://chateaulacommanderie.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95218",
             "name": "自动源_119",
             "type": 3,
@@ -801,6 +1211,46 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.gzcqrl.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95220",
+            "name": "自动源_121",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.cdmjgc.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95221",
+            "name": "自动源_122",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.xzzybyq.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95222",
+            "name": "自动源_123",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.bjharf.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95223",
+            "name": "自动源_124",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://bjharf.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95224",
@@ -843,16 +1293,6 @@
             "ext": "https://bedimming.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95229",
-            "name": "自动源_130",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://bedimming.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
             "key": "auto_95228",
             "name": "自动源_129",
             "type": 3,
@@ -863,6 +1303,16 @@
             "ext": "https://belmast-group.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95229",
+            "name": "自动源_130",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://bedimming.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95230",
             "name": "自动源_131",
             "type": 3,
@@ -871,6 +1321,116 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.hnyszz.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95231",
+            "name": "自动源_132",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ligengyu.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95232",
+            "name": "自动源_133",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://yelaikan.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95233",
+            "name": "自动源_134",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.bksihdx.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95234",
+            "name": "自动源_135",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://m.whxhz.com.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95235",
+            "name": "自动源_136",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://whxhz.com.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95236",
+            "name": "自动源_137",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://m.gskfzxyy.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95237",
+            "name": "自动源_138",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://555k24.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95238",
+            "name": "自动源_139",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://chenkeeco.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95239",
+            "name": "自动源_140",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.xinfanganjia.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95240",
+            "name": "自动源_141",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.oldboyxiaoliu.cn/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95241",
+            "name": "自动源_142",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://m.loveqzhi.cn/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95242",
@@ -893,34 +1453,14 @@
             "ext": "https://chinagolfpak.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95204",
-            "name": "自动源_105",
+            "key": "auto_95244",
+            "name": "自动源_145",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://xiangxiangyu.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95252",
-            "name": "自动源_153",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://bmzpx.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95236",
-            "name": "自动源_137",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://m.gskfzxyy.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://eri24.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95245",
@@ -933,44 +1473,34 @@
             "ext": "https://www.shmaiqian.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95250",
-            "name": "自动源_151",
+            "key": "auto_95246",
+            "name": "自动源_147",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://zzbfxx.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.gifta.cn/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95239",
-            "name": "自动源_140",
+            "key": "auto_95247",
+            "name": "自动源_148",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.xinfanganjia.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.787889.cn/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95251",
-            "name": "自动源_152",
+            "key": "auto_95248",
+            "name": "自动源_149",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.zjjygjlxs.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "auto_95256",
-            "name": "自动源_157",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://m.bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://m.gdgangben.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95249",
@@ -983,6 +1513,36 @@
             "ext": "http://www.wobosi.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "auto_95250",
+            "name": "自动源_151",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://zzbfxx.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95251",
+            "name": "自动源_152",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.zjjygjlxs.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95252",
+            "name": "自动源_153",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://bmzpx.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "auto_95253",
             "name": "自动源_154",
             "type": 3,
@@ -993,14 +1553,14 @@
             "ext": "http://m.bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95261",
-            "name": "自动源_162",
+            "key": "auto_95254",
+            "name": "自动源_155",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.wlt5.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://www.bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95255",
@@ -1013,14 +1573,14 @@
             "ext": "https://www.bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95262",
-            "name": "自动源_163",
+            "key": "auto_95256",
+            "name": "自动源_157",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.hdtvfernsehen.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://m.bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "auto_95257",
@@ -1033,14 +1593,124 @@
             "ext": "https://bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95254",
-            "name": "自动源_155",
+            "key": "auto_95258",
+            "name": "自动源_159",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95259",
+            "name": "自动源_160",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.yikubo.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95260",
+            "name": "自动源_161",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.xcetv.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95261",
+            "name": "自动源_162",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.wlt5.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95262",
+            "name": "自动源_163",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.hdtvfernsehen.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95263",
+            "name": "自动源_164",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.bjzply.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95264",
+            "name": "自动源_165",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://bjzply.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95265",
+            "name": "自动源_166",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://bjzply.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95266",
+            "name": "自动源_167",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.bjzply.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "auto_95267",
+            "name": "自动源_168",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://m.bedyw.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95000",
+            "name": "首页",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.daheshiye.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "ysgc",
+            "name": "ysgc",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.ysgc.fun/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "csp_xb",
@@ -1063,24 +1733,24 @@
             "ext": "https://ysmao.cc/vodtype/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95233",
-            "name": "自动源_134",
+            "key": "95002",
+            "name": "95002",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.bksihdx.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.wangfei.la/vod-show/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "auto_95258",
-            "name": "自动源_159",
+            "key": "95003",
+            "name": "95003",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://bjzxdjt.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.80s10.com/newshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95004",
@@ -1093,24 +1763,34 @@
             "ext": "https://www.6080z.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95002",
-            "name": "95002",
+            "key": "95005",
+            "name": "95005",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.wangfei.la/vod-show/{cateId}--------{catePg}---.html"
+            "ext": "https://www.naifei1.org/vodtype/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "ysgc",
-            "name": "ysgc",
+            "key": "95006",
+            "name": "95006",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.ysgc.fun/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.naifei1.org/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95007",
+            "name": "95007",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://vyanke.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95008",
@@ -1133,26 +1813,6 @@
             "ext": "https://www.kanxihe.com/tags/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95007",
-            "name": "95007",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://vyanke.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95012",
-            "name": "95012",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.ttzj666.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
             "key": "95010",
             "name": "95010",
             "type": 3,
@@ -1161,26 +1821,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://skjyxy.com/skvodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95014",
-            "name": "95014",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.wangfei.la/vod-show-id-{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95013",
-            "name": "95013",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.gangjuwang.cc/category/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95011",
@@ -1193,24 +1833,44 @@
             "ext": "https://www.smdy93.com/vod-show-{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95020",
-            "name": "95020",
+            "key": "95012",
+            "name": "95012",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://yeyajiba.com/yevodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.ttzj666.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95017",
-            "name": "95017",
+            "key": "95013",
+            "name": "95013",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.kanxig.com/tags/{cateId}--------{catePg}---.html"
+            "ext": "https://www.gangjuwang.cc/category/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95014",
+            "name": "95014",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.wangfei.la/vod-show-id-{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95015",
+            "name": "95015",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dmxq1x.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95016",
@@ -1223,6 +1883,26 @@
             "ext": "https://zhuiyingmao2.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "95017",
+            "name": "95017",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.kanxig.com/tags/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95018",
+            "name": "95018",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://naifei.in/vod/show/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "95019",
             "name": "95019",
             "type": 3,
@@ -1233,24 +1913,24 @@
             "ext": "https://dami10.me/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95024",
-            "name": "95024",
+            "key": "95020",
+            "name": "95020",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.iyouxiu.com/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://yeyajiba.com/yevodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95026",
-            "name": "95026",
+            "key": "95021",
+            "name": "95021",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.52xkdy.com/vodlist/{cateId}--------{catePg}---.html"
+            "ext": "https://www.weihuafrp.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95022",
@@ -1273,34 +1953,54 @@
             "ext": "https://www.llyady.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95033",
-            "name": "95033",
+            "key": "95024",
+            "name": "95024",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://777tv.tw/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.iyouxiu.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95037",
-            "name": "95037",
+            "key": "95025",
+            "name": "95025",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.kanxiwa.com/tags/{cateId}--------{catePg}---.html"
+            "ext": "https://www.92dyw.net/type/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95036",
-            "name": "95036",
+            "key": "95026",
+            "name": "95026",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.hahads.com/show/{cateId}--------{catePg}---.html"
+            "ext": "https://www.52xkdy.com/vodlist/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95027",
+            "name": "95027",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.weihuafrp.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95028",
+            "name": "95028",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.lzrs.cc/index.php/vod/show/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95029",
@@ -1313,6 +2013,56 @@
             "ext": "https://www.dongguanchangfang.com/show/{cateId}--------{catePg}---.html"
         },
         {
+            "key": "95030",
+            "name": "95030",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://i7qu.com/index.php/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95031",
+            "name": "95031",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ttmja.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95032",
+            "name": "95032",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://hanjuw.cc/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95033",
+            "name": "95033",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://777tv.tw/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95034",
+            "name": "95034",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gd333mov.com/index.php/vod/show/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "95035",
             "name": "95035",
             "type": 3,
@@ -1323,14 +2073,24 @@
             "ext": "https://www.139ys.com/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95045",
-            "name": "95045",
+            "key": "95036",
+            "name": "95036",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://555dycom.com/livodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://www.hahads.com/show/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95037",
+            "name": "95037",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.kanxiwa.com/tags/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95038",
@@ -1341,6 +2101,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://hnlkdl.com/show/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "95039",
+            "name": "95039",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://bkyb.net/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "95040",
@@ -1363,157 +2133,22 @@
             "ext": "https://www.ysgc.fun/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "95003",
-            "name": "95003",
+            "key": "95045",
+            "name": "95045",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.80s10.com/newshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95006",
-            "name": "95006",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.naifei1.org/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95005",
-            "name": "95005",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.naifei1.org/vodtype/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95015",
-            "name": "95015",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dmxq1x.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95018",
-            "name": "95018",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://naifei.in/vod/show/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95021",
-            "name": "95021",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.weihuafrp.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95025",
-            "name": "95025",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.92dyw.net/type/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95027",
-            "name": "95027",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.weihuafrp.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95031",
-            "name": "95031",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ttmja.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95000",
-            "name": "首页",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.daheshiye.com/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95030",
-            "name": "95030",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://i7qu.com/index.php/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95032",
-            "name": "95032",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://hanjuw.cc/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95028",
-            "name": "95028",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.lzrs.cc/index.php/vod/show/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95034",
-            "name": "95034",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gd333mov.com/index.php/vod/show/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "95039",
-            "name": "95039",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://bkyb.net/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://555dycom.com/livodshow/{cateId}--------{catePg}---.html"
         }
     ],
     "parses": [
+        {
+            "name": "樱花解析",
+            "type": 1,
+            "url": "https://jx.yhzybf.com/player/jx.php?url="
+        },
         {
             "name": "CK视频解析",
             "type": 1,
@@ -1525,19 +2160,137 @@
             "url": "https://jx.598110.com/index.php?url="
         },
         {
-            "name": "xmflv",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
             "name": "钉子解析",
             "type": 1,
             "url": "http://dz.niurou6.com:57091/play/jx&url="
         },
         {
-            "name": "樱花解析",
+            "name": "聚合短视频解析",
             "type": 1,
-            "url": "https://jx.yhzybf.com/player/jx.php?url="
+            "url": "http://luck.klizi.cn/api/jx_video.php?url="
+        },
+        {
+            "name": "春盈",
+            "type": 1,
+            "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ]
+            }
+        },
+        {
+            "name": "天微",
+            "type": 1,
+            "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ]
+            }
+        },
+        {
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "乐乐",
+            "type": 1,
+            "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+        },
+        {
+            "name": "巧技解析",
+            "type": 1,
+            "url": "http://pandown.pro/app/kkdy.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
         },
         {
             "name": "夜幕",
@@ -1638,6 +2391,54 @@
             }
         },
         {
+            "name": "拾光闲鱼嗅探",
+            "type": 0,
+            "url": "https://jx.xyflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "yk",
+                    "优酷",
+                    "mgtv",
+                    "imgo",
+                    "\n芒果"
+                ]
+            }
+        },
+        {
+            "name": "365",
+            "type": 0,
+            "url": "https://chaxun.truechat365.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
@@ -1696,6 +2497,11 @@
             }
         },
         {
+            "name": "BL",
+            "type": 0,
+            "url": "https://vip.bljiex.com/?v="
+        },
+        {
             "name": "冰豆",
             "type": 0,
             "url": "https://bd.jx.cn/?url="
@@ -1720,267 +2526,6 @@
                     "mgtv",
                     "芒果",
                     "imgo",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
-        {
-            "name": "PM",
-            "url": "https://www.playm3u8.cn/jiexi.php?url=",
-            "type": 0,
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            },
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "m3u8",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "看看",
-            "type": 0,
-            "url": "https://jx.m3u8.pw/?url="
-        },
-        {
-            "name": "BL",
-            "type": 0,
-            "url": "https://vip.bljiex.com/?v="
-        },
-        {
-            "name": "咸鱼",
-            "type": 0,
-            "url": "https://jx.xyflv.cc/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
-                    "referer": "https://www.xyflv.cc/"
-                }
-            }
-        },
-        {
-            "name": "云解析",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-                }
-            }
-        },
-        {
-            "name": "爱豆",
-            "type": 0,
-            "url": "https://jx.aidouer.net/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
-                    "referer": "https://jiejie.uk/"
-                }
-            }
-        },
-        {
-            "name": "王牌",
-            "type": 1,
-            "url": "https://za.kuanjv.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "搜狐",
-                    "sohu",
-                    "letv",
-                    "乐视",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "xigua",
-                    "西瓜"
-                ]
-            }
-        },
-        {
-            "name": "聚合短视频解析",
-            "type": 1,
-            "url": "http://luck.klizi.cn/api/jx_video.php?url="
-        },
-        {
-            "name": "春盈",
-            "type": 1,
-            "url": "http://119.91.123.253:2345/Api/yun.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
-        },
-        {
-            "name": "天微",
-            "type": 1,
-            "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
-        },
-        {
-            "name": "365",
-            "type": 0,
-            "url": "https://chaxun.truechat365.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "乐乐",
-            "type": 1,
-            "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
-        },
-        {
-            "name": "巧技解析",
-            "type": 1,
-            "url": "http://pandown.pro/app/kkdy.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
                     "rx",
                     "ltnb",
                     "bilibili",
@@ -2052,8 +2597,8 @@
             }
         },
         {
-            "name": "8090",
-            "url": "https://www.8090.la/8090/?url=",
+            "name": "PM",
+            "url": "https://www.playm3u8.cn/jiexi.php?url=",
             "type": 0,
             "ext": {
                 "flag": [
@@ -2126,11 +2671,18 @@
             }
         },
         {
-            "name": "左岸",
-            "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "name": "m3u8",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "8090",
+            "url": "https://www.8090.la/8090/?url=",
+            "type": 0,
             "ext": {
                 "flag": [
+                    "qiyi",
+                    "imgo",
                     "爱奇艺",
                     "奇艺",
                     "qq",
@@ -2147,12 +2699,23 @@
                     "哔哩",
                     "mgtv",
                     "芒果",
-                    "芒果"
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
                 ],
                 "header": {
-                    "User-Agent": "okhttp/3.12.0"
+                    "User-Agent": "Mozilla/5.0"
                 }
+            },
+            "header": {
+                "User-Agent": "Mozilla/5.0"
             }
+        },
+        {
+            "name": "看看",
+            "type": 0,
+            "url": "https://jx.m3u8.pw/?url="
         },
         {
             "name": "巧记",
@@ -2190,6 +2753,106 @@
             }
         },
         {
+            "name": "巧技",
+            "type": 1,
+            "url": "http://pandown.pro/app/kkdy.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "左岸",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "ext": {
+                "flag": [
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/3.12.0"
+                }
+            }
+        },
+        {
+            "name": "世界",
+            "type": 1,
+            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "mgtv",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
+            "name": "咸鱼",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+                    "referer": "https://www.xyflv.cc/"
+                }
+            }
+        },
+        {
+            "name": "云解析",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+                }
+            }
+        },
+        {
+            "name": "爱豆",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+                    "referer": "https://jiejie.uk/"
+                }
+            }
+        },
+        {
             "name": "Pro",
             "type": 1,
             "url": "http://api.vip123kan.vip/?url=",
@@ -2219,6 +2882,16 @@
             }
         },
         {
+            "name": "leduo",
+            "type": 1,
+            "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=11&vid=",
+            "ext": {
+                "flag": [
+                    "leduo"
+                ]
+            }
+        },
+        {
             "name": "duoduozy2",
             "type": 1,
             "url": "https://a.dxzj88.com/jxjx/dd.php?url=",
@@ -2239,23 +2912,12 @@
             }
         },
         {
-            "name": "拾光闲鱼嗅探",
-            "type": 0,
-            "url": "https://jx.xyflv.com/?url=",
+            "name": "renrenmi3",
+            "type": 1,
+            "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
             "ext": {
                 "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "yk",
-                    "优酷",
-                    "mgtv",
-                    "imgo",
-                    "\n芒果"
+                    "renrenmi"
                 ]
             }
         },
@@ -2281,16 +2943,6 @@
             }
         },
         {
-            "name": "leduo",
-            "type": 1,
-            "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=11&vid=",
-            "ext": {
-                "flag": [
-                    "leduo"
-                ]
-            }
-        },
-        {
             "name": "2",
             "type": 1,
             "url": "https://jx.mczdyw.com/xg.php?url=",
@@ -2305,25 +2957,6 @@
             "name": "3",
             "type": 1,
             "url": "https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺"
-                ]
-            }
-        },
-        {
-            "name": "8",
-            "type": 1,
-            "url": "https://app.iminna.com/jx/?url=",
             "ext": {
                 "flag": [
                     "youku",
@@ -2359,12 +2992,21 @@
             }
         },
         {
-            "name": "renrenmi3",
+            "name": "8",
             "type": 1,
-            "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
+            "url": "https://app.iminna.com/jx/?url=",
             "ext": {
                 "flag": [
-                    "renrenmi"
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
                 ]
             }
         },
@@ -2406,9 +3048,27 @@
             }
         },
         {
-            "name": "巧技",
+            "name": "江湖解析",
             "type": 1,
-            "url": "http://pandown.pro/app/kkdy.php?url=",
+            "url": "http://103.40.240.46/jh/?url=",
+            "ext": {
+                "flag": [
+                    "renrenmi",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "xigua",
+                    "西瓜"
+                ]
+            }
+        },
+        {
+            "name": "王牌",
+            "type": 1,
+            "url": "https://za.kuanjv.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2418,17 +3078,42 @@
                     "奇艺",
                     "youku",
                     "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
                     "mgtv",
                     "芒果",
-                    "rx",
-                    "ltnb",
+                    "搜狐",
+                    "sohu",
+                    "letv",
+                    "乐视",
                     "bilibili",
-                    "1905",
-                    "xigua"
+                    "哔哩哔哩",
+                    "哔哩",
+                    "xigua",
+                    "西瓜"
+                ]
+            }
+        },
+        {
+            "name": "我爱电影网",
+            "type": 1,
+            "url": "https://jhpc.manduhu.com/j1217.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "乐视",
+                    "letv",
+                    "PPTV",
+                    "pptv",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
                 ]
             }
         },
@@ -2471,18 +3156,6 @@
             }
         },
         {
-            "name": "世界",
-            "type": 1,
-            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "mgtv",
-                    "YuMi-vip"
-                ]
-            }
-        },
-        {
             "name": "hfyrw",
             "type": 1,
             "url": "https://json.hfyrw.com/mao.go?url=",
@@ -2490,6 +3163,23 @@
                 "flag": [
                     "ltnb",
                     "renrenmi"
+                ]
+            }
+        },
+        {
+            "name": "aiaine02",
+            "type": 1,
+            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "xfyun",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "longteng",
+                    "xueren"
                 ]
             }
         },
@@ -2524,54 +3214,12 @@
             }
         },
         {
-            "name": "aiaine02",
-            "type": 1,
-            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
-            "ext": {
-                "flag": [
-                    "ltnb",
-                    "renrenmi",
-                    "xfyun",
-                    "miaoparty",
-                    "miaoparty2",
-                    "miaoparty3",
-                    "longteng",
-                    "xueren"
-                ]
-            }
-        },
-        {
             "name": "jx165",
             "type": 1,
             "url": "https://ltjx.kuaixiao.vip/home/api?type=ys&uid=506916&key=dlmpwBHIKLMPQRVW23&url=",
             "ext": {
                 "flag": [
                     "ltnb"
-                ]
-            }
-        },
-        {
-            "name": "我爱电影网",
-            "type": 1,
-            "url": "https://jhpc.manduhu.com/j1217.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "乐视",
-                    "letv",
-                    "PPTV",
-                    "pptv",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
                 ]
             }
         },
@@ -2594,16 +3242,6 @@
             }
         },
         {
-            "name": "xfyun云",
-            "type": 1,
-            "url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
-            "ext": {
-                "flag": [
-                    "xfyun"
-                ]
-            }
-        },
-        {
             "name": "J13",
             "type": 1,
             "url": "https://languangyingshiziyuan.1080zy.top/longtengzy.php/?url=",
@@ -2614,12 +3252,43 @@
             }
         },
         {
+            "name": "xfyun云",
+            "type": 1,
+            "url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
+            "ext": {
+                "flag": [
+                    "xfyun"
+                ]
+            }
+        },
+        {
             "name": "Wuduzy",
             "type": 1,
             "url": "https://aa.xkys.tv/json.php?url=",
             "ext": {
                 "flag": [
                     "wuduzy"
+                ]
+            }
+        },
+        {
+            "name": "LTRX",
+            "type": 1,
+            "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=",
+            "ext": {
+                "flag": [
+                    "rx"
+                ]
+            }
+        },
+        {
+            "name": "喵派对资源3",
+            "type": 1,
+            "url": "https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi"
                 ]
             }
         },
@@ -2647,51 +3316,12 @@
             }
         },
         {
-            "name": "喵派对资源3",
-            "type": 1,
-            "url": "https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=",
-            "ext": {
-                "flag": [
-                    "ltnb",
-                    "renrenmi"
-                ]
-            }
-        },
-        {
-            "name": "LTRX",
-            "type": 1,
-            "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=",
-            "ext": {
-                "flag": [
-                    "rx"
-                ]
-            }
-        },
-        {
             "name": "leduotv",
             "type": 1,
             "url": "https://api.leduotv.com/wp-api/getvodurl.php?vid=",
             "ext": {
                 "flag": [
                     "leduo"
-                ]
-            }
-        },
-        {
-            "name": "江湖解析",
-            "type": 1,
-            "url": "http://103.40.240.46/jh/?url=",
-            "ext": {
-                "flag": [
-                    "renrenmi",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "xigua",
-                    "西瓜"
                 ]
             }
         }
