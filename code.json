@@ -1,5 +1,5 @@
 {
-"spider": "https://raw.githubusercontent.com/qjlxg/elsewhere/refs/heads/main/pg.jar",
+"spider": "https://raw.githubusercontent.com/qjlxg/elsewhere/refs/heads/main/custom_spider.jar",
 
 "lives":[{"name":"大田沟","type":0,"url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"} ],
 "wallpaper":"https://7ed.net/bing/api",
